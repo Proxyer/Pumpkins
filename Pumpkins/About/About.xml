@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Pumpkins</name>
+	<author>GarbageDayIsHereToStay</author>
+	<packageId>GarbageDayIsHereToStay.Pumpkins</packageId>
+	<supportedVersions><li>1.1</li></supportedVersions>
+	<description>
+		Pumpkin! 
+	</description>
+</ModMetaData>

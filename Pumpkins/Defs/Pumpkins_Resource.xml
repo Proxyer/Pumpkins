@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <ThingDef ParentName="PlantFoodRawBase">
+    <defName>RawPumpkin</defName>
+    <label>pumpkins</label>
+    <description>Raw pumpkins.</description>
+    <graphicData>
+      <texPath>PumpkinPlant/Resource/Pumpkins</texPath>
+    </graphicData>
+    <statBases>
+      <MarketValue>1.1</MarketValue>
+      <Mass>0.064</Mass>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>12</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <ingestible>
+      <foodType>Seed</foodType>
+    </ingestible>
+  </ThingDef>
+
+
+
+  
+</Defs>
