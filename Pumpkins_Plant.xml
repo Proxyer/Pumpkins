@@ -3,7 +3,7 @@
   <ThingDef ParentName="PlantBase">
     <defName>PUMPKIN_PLANT_DEF</defName>
     <label>pumpkin plant</label>
-    <description>A large round fruit protected by a thick orange shell. Pumpkins provide a large amount of food for their grow time but spoil quickly and require a lot of work to haul.</description>
+    <description>A large round fruit protected by a thick orange shell. Pumpkins provide a large amount of food for their grow time but spoil quicky and almost inedible when raw.</description>
     <statBases>
       <MaxHitPoints>120</MaxHitPoints>
       <Nutrition>0.2</Nutrition>
